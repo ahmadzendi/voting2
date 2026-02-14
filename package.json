@@ -1,0 +1,12 @@
+{
+  "name": "voting-page",
+  "version": "1.0.0",
+  "description": "Simple voting page",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
